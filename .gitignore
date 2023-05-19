@@ -39,3 +39,4 @@ ipch/
 
 # macOS
 .DS_Store
+build
